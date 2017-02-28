@@ -1,9 +1,10 @@
+package org.b.syntax.demos;
 
 public class CharType {
 	public static void main(String[] args) {
 		char ch = 'a';
 		System.out.println(ch);
-		ch = 'þ';
+		ch = 'ï¿½';
 		System.out.println(ch);
 		ch = '\u03A9';
 		System.out.println(ch);

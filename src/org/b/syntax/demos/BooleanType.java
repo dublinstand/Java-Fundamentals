@@ -1,3 +1,4 @@
+package org.b.syntax.demos;
 
 public class BooleanType {
 	public static void main(String[] args) {
