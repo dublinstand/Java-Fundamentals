@@ -1,4 +1,4 @@
-package org.b.syntax;
+package org._2_.syntax;
 
 import java.util.Scanner;
 

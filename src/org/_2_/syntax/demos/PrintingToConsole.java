@@ -1,4 +1,4 @@
-package org.b.syntax.demos;
+package org._2_.syntax.demos;
 
 import java.time.LocalDate;
 import java.util.Locale;

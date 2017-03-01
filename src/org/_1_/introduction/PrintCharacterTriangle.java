@@ -1,4 +1,4 @@
-package org.a.introduction;
+package org._1_.introduction;
 
 //Create a triangle of characters, based on input. Learn about java.util.Scanner and Integer.parseInt ().
 //        Test your program with integers up to 26. Think why.

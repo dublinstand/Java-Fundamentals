@@ -1,4 +1,4 @@
-package org.b.syntax.demos;
+package org._2_.syntax.demos;
 
 public class IntegerTypes {
 	public static void main(String[] args) {

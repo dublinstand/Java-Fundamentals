@@ -1,4 +1,4 @@
-package org.b.syntax.demos;
+package org._2_.syntax.demos;
 
 public class CharType {
 	public static void main(String[] args) {

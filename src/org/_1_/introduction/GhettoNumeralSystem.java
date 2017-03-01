@@ -1,4 +1,4 @@
-package org.a.introduction;
+package org._1_.introduction;
 
 // Write a program that converts the decimal number system to the ghetto numeral system. In the ghetto, numbers are represented as following:
 //         	0 – Gee

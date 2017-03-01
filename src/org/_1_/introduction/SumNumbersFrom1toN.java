@@ -1,4 +1,4 @@
-package org.a.introduction;
+package org._1_.introduction;
 
 // Create a Java program that reads a number N from the console and calculates the sum of all numbers from 1 to N (inclusive).
 

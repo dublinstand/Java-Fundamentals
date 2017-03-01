@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/org/b/syntax/_03_CalculateExpression.java" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java" line="18" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SoftUniJava.iml" afterPath="$PROJECT_DIR$/SoftUniJava.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java" afterPath="$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/GetAverage.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/GetAverage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/GhettoNumeralSystem.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/GhettoNumeralSystem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/JustTest.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/JustTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/PrintCharacterTriangle.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacterTriangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/a/introduction/SumNumbersFrom1toN.java" afterPath="$PROJECT_DIR$/src/org/_1_/introduction/SumNumbersFrom1toN.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/_01_RectangleArea.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/_02_TriangleArea.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/_03_CalculateExpression.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/BooleanType.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/BooleanType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/CharType.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/CharType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/ConditionalStatements.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/ConditionalStatements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/FloatingPointTypes.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/FloatingPointTypes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/IntegerTypes.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/IntegerTypes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/Literals.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/Literals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/Locales.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/Locales.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/ObjectType.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/ObjectType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/OperatorsAndExpressions.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/OperatorsAndExpressions.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/PrintingToConsole.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/PrintingToConsole.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/ReadStringsAndNumbers.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadStringsAndNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/ReadingNumbers.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadingNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/StringType.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/StringType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/TypeConversion.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/TypeConversion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/b/syntax/demos/WrappersAroundPrimitiveTypes.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/demos/WrappersAroundPrimitiveTypes.java" />
     </list>
     <ignored path="SoftUniJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +51,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="_01_RectangleArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_01_RectangleArea.java">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
@@ -39,7 +61,7 @@
         </entry>
       </file>
       <file leaf-file-name="_02_TriangleArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_02_TriangleArea.java">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="10" column="44" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
@@ -49,22 +71,22 @@
         </entry>
       </file>
       <file leaf-file-name="_03_CalculateExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_03_CalculateExpression.java">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding>
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1312#1313#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1280#1281#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1438#1439#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_04_RandomizeNumbersFromNtoM.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
@@ -76,7 +98,7 @@
         </entry>
       </file>
       <file leaf-file-name="ReadStringsAndNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/ReadStringsAndNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadStringsAndNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -137,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/org/b/syntax/_03_FormattingNumbers.java" />
         <option value="$PROJECT_DIR$/src/org/b/syntax/_03_CalculateExpression.java" />
         <option value="$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java" />
       </list>
     </option>
   </component>
@@ -226,50 +249,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="syntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -701,7 +680,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -716,7 +695,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19956616" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19956616" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -759,25 +738,25 @@
     <entry file="file://$PROJECT_DIR$/src/Introduction/GhettoNumeralSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/GhettoNumeralSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/GhettoNumeralSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/GhettoNumeralSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
@@ -790,7 +769,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/SumNumbersFrom1toN.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/SumNumbersFrom1toN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -798,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacterTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacterTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -806,7 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/GhettoNumeralSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/GhettoNumeralSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
@@ -814,7 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/JustTest.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/JustTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -822,7 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/PrintCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="44" />
@@ -830,7 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/WrappersAroundPrimitiveTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/WrappersAroundPrimitiveTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -838,7 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/BooleanType.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/BooleanType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
@@ -846,7 +825,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/ConditionalStatements.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ConditionalStatements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
@@ -854,7 +833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/FloatingPointTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/FloatingPointTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
@@ -862,7 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/IntegerTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/IntegerTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
@@ -870,7 +849,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/Literals.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/Literals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-142">
           <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
@@ -878,7 +857,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/Locales.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/Locales.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
@@ -886,7 +865,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/ObjectType.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ObjectType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -894,7 +873,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/OperatorsAndExpressions.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/OperatorsAndExpressions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1012">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -902,7 +881,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/PrintingToConsole.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/PrintingToConsole.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -910,7 +889,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/ReadingNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -918,7 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/CharType.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/CharType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -926,7 +905,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/a/introduction/GetAverage.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/GetAverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
@@ -934,7 +913,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/demos/ReadStringsAndNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadStringsAndNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -942,7 +921,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_01_RectangleArea.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
@@ -950,7 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_02_TriangleArea.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
@@ -966,20 +945,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_03_CalculateExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding>
-            <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1312#1313#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java">
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />

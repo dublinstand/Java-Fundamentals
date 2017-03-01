@@ -1,4 +1,4 @@
-package org.b.syntax.demos;
+package org._2_.syntax.demos;
 
 import java.util.Locale;
 import java.util.Scanner;
