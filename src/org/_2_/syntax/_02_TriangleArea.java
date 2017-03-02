@@ -25,11 +25,11 @@ public class _02_TriangleArea {
         System.out.print((int)area);
     }
 
-    public static class Point{
+    private static class Point{
         private int X;
         private int Y;
 
-        public Point(int x, int y) {
+        Point(int x, int y) {
             X = x;
             Y = y;
         }

@@ -5,34 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_05_OddAndEvenPairs.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/GetAverage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/GhettoNumeralSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/JustTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/PrintCharacterTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/PrintCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/a/introduction/SumNumbersFrom1toN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/_01_RectangleArea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/_02_TriangleArea$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/_02_TriangleArea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/_03_CalculateExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/_04_RandomizeNumbersFromNtoM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/BooleanType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/CharType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/ConditionalStatements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/FloatingPointTypes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/IntegerTypes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/Literals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/Locales.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/ObjectType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/OperatorsAndExpressions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/PrintingToConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/ReadStringsAndNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/ReadingNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/StringType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/TypeConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/b/syntax/demos/WrappersAroundPrimitiveTypes.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_06_HitTheTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_07_ExtractWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_08_StartsAndEndsWithCapitalLetter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_09_CharacterMultiplier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_10_GetFirstOddOrEvenElements.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/_2_/syntax/_02_TriangleArea$Point.class" afterPath="$PROJECT_DIR$/out/production/SoftUniJava/org/_2_/syntax/_02_TriangleArea$Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/org/_2_/syntax/_02_TriangleArea.class" afterPath="$PROJECT_DIR$/out/production/SoftUniJava/org/_2_/syntax/_02_TriangleArea.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java" afterPath="$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java" />
     </list>
     <ignored path="SoftUniJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,46 +35,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_01_RectangleArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_02_TriangleArea.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="418">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_03_CalculateExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java">
+      <file leaf-file-name="_06_HitTheTarget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_06_HitTheTarget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding>
-                <element signature="e#1280#1281#0" expanded="true" />
-                <element signature="e#1314#1315#0" expanded="true" />
-                <element signature="e#1400#1401#0" expanded="true" />
-                <element signature="e#1438#1439#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_04_RandomizeNumbersFromNtoM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java">
+      <file leaf-file-name="_07_ExtractWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_07_ExtractWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            <state relative-caret-position="192">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_05_OddAndEvenPairs.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_05_OddAndEvenPairs.java">
+      <file leaf-file-name="_08_StartsAndEndsWithCapitalLetter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_08_StartsAndEndsWithCapitalLetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            <state relative-caret-position="60">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,12 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadStringsAndNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/demos/ReadStringsAndNumbers.java">
+      <file leaf-file-name="_09_CharacterMultiplier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_09_CharacterMultiplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="418">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_10_GetFirstOddOrEvenElements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_10_GetFirstOddOrEvenElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,7 +155,20 @@
         <option value="$PROJECT_DIR$/src/org/b/syntax/_04_RandomizeNumbersFromNtoM.java" />
         <option value="$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java" />
         <option value="$PROJECT_DIR$/src/org/_2_/syntax/_05_OddAndEvenPairs.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_06_HitTheTarget.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_07_ExtractWords.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_08_StartsAndEndsWithCapitalLetter.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_09_CharacterMultiplier.java" />
+        <option value="$PROJECT_DIR$/src/org/_2_/syntax/_10_GetFirstOddOrEvenElements.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -315,95 +307,95 @@
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\b\syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._05_OddAndEvenPairs">
-    <configuration default="false" name="_01_RectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.b.syntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.b.syntax._01_RectangleArea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_02_TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.b.syntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.b.syntax._02_TriangleArea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_03_CalculateExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.b.syntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.b.syntax._03_CalculateExpression" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_04_RandomizeNumbersFromNtoM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.b.syntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.b.syntax._04_RandomizeNumbersFromNtoM" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_05_OddAndEvenPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._10_GetFirstOddOrEvenElements">
+    <configuration default="false" name="_06_HitTheTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="org._2_.syntax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._05_OddAndEvenPairs" />
+      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._06_HitTheTarget" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_07_ExtractWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._2_.syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._07_ExtractWords" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_08_StartsAndEndsWithCapitalLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._2_.syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._08_StartsAndEndsWithCapitalLetter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_09_CharacterMultiplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._2_.syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._09_CharacterMultiplier" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_10_GetFirstOddOrEvenElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._2_.syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._2_.syntax._10_GetFirstOddOrEvenElements" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -680,19 +672,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._01_RectangleArea" />
-      <item index="1" class="java.lang.String" itemvalue="Application._02_TriangleArea" />
-      <item index="2" class="java.lang.String" itemvalue="Application._03_CalculateExpression" />
-      <item index="3" class="java.lang.String" itemvalue="Application._04_RandomizeNumbersFromNtoM" />
-      <item index="4" class="java.lang.String" itemvalue="Application._05_OddAndEvenPairs" />
+      <item index="0" class="java.lang.String" itemvalue="Application._06_HitTheTarget" />
+      <item index="1" class="java.lang.String" itemvalue="Application._07_ExtractWords" />
+      <item index="2" class="java.lang.String" itemvalue="Application._08_StartsAndEndsWithCapitalLetter" />
+      <item index="3" class="java.lang.String" itemvalue="Application._09_CharacterMultiplier" />
+      <item index="4" class="java.lang.String" itemvalue="Application._10_GetFirstOddOrEvenElements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._05_OddAndEvenPairs" />
-        <item index="1" class="java.lang.String" itemvalue="Application._04_RandomizeNumbersFromNtoM" />
-        <item index="2" class="java.lang.String" itemvalue="Application._03_CalculateExpression" />
-        <item index="3" class="java.lang.String" itemvalue="Application._02_TriangleArea" />
-        <item index="4" class="java.lang.String" itemvalue="Application._01_RectangleArea" />
+        <item index="0" class="java.lang.String" itemvalue="Application._10_GetFirstOddOrEvenElements" />
+        <item index="1" class="java.lang.String" itemvalue="Application._09_CharacterMultiplier" />
+        <item index="2" class="java.lang.String" itemvalue="Application._08_StartsAndEndsWithCapitalLetter" />
+        <item index="3" class="java.lang.String" itemvalue="Application._07_ExtractWords" />
+        <item index="4" class="java.lang.String" itemvalue="Application._06_HitTheTarget" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +711,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -729,7 +721,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34892085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34892085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -765,20 +757,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="10" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="commands" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
-    <entry file="file://$PROJECT_DIR$/src/Introduction/SumNumbersFrom1toN.java" />
-    <entry file="file://$PROJECT_DIR$/src/Introduction/GhettoNumeralSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/JustTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Introduction/PrintCharacterTriangle.java" />
     <entry file="file://$PROJECT_DIR$/src/org/_1_/introduction/PrintCharacters.java" />
@@ -959,22 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2414">
@@ -983,33 +958,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1438#1439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_04_RandomizeNumbersFromNtoM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_05_OddAndEvenPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_06_HitTheTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_01_RectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_03_CalculateExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_02_TriangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_07_ExtractWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_08_StartsAndEndsWithCapitalLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_09_CharacterMultiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_2_/syntax/_10_GetFirstOddOrEvenElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
