@@ -12,7 +12,6 @@ package org._3_loopsmethodsclasses;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class _08_ListOfProducts {
@@ -36,10 +35,10 @@ public class _08_ListOfProducts {
                 products.add(product);
             }
 
-//            products.sort(products);
+            Collections.sort(products);
 
             for (Product product : products){
-                fileWriter.write(product.getPrice() + " " + product.getName() + "\n");
+                fileWriter.write(String.format("%.2f %s", product.getPrice(), product.getName()) + "\n");
             }
 
 

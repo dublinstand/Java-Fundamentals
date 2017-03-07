@@ -1,3 +1,4 @@
-2.8 milk
-1.2 apple
-8.5 coffee
+1.12 beer
+1.20 water
+2.50 juice
+18.70 vodka

@@ -17,14 +17,13 @@ class Product implements Comparable<Product>{
         return price;
     }
 
-    public int compareTo(Product compareFruit) {
-
-        double otherPrice = ((Product) compareFruit).getPrice();
-
-        //ascending order
-        if(this.price>otherPrice) return 1;
-        else
-        if(this.price==otherPrice) return 0;
-        return -1;
+    @Override
+    public int compareTo(Product product) {
+        if (this.price > product.getPrice()) {
+            return 1;
+        } else if (this.price < product.getPrice()) {
+            return -1;
+        }
+        return 0;
     }
 }

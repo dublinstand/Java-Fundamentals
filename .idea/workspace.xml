@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/SumNumbersFromTextFileInput.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_02_Generate3LetterWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_03_FullHouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_04_AngleUniteConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_05_RandomHandsOf5Cards.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_06_DaysBetweenTwoDates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_07_SumNumbersFromTextFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java" />
     </list>
     <ignored path="SoftUniJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,16 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_02_Generate3LetterWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_02_Generate3LetterWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="49" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_03_FullHouse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_03_FullHouse.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,24 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_08_ListOfProducts.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_08_ListOfProducts.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+            <state relative-caret-position="220">
+              <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#899#908#0" expanded="true" />
+                <element signature="e#870#879#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListOfProductsOutput.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListOfProductsOutput.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,8 +113,8 @@
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <element signature="e#270#271#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
@@ -145,8 +128,8 @@
       <file leaf-file-name="ListOfProductsInput.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <state relative-caret-position="88">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -226,8 +209,8 @@
         <option value="$PROJECT_DIR$/TestFile.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_07_SumNumbersFromTextFile.java" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java" />
+        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java" />
       </list>
     </option>
@@ -791,12 +774,19 @@
       <option name="project" value="LOCAL" />
       <updated>1488801092713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added exercise">
+      <created>1488892394185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1488892394185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -811,7 +801,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -858,13 +848,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/ConditionalStatements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/FloatingPointTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1205,10 +1188,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_88_others/javacollections/_05_CompareStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="242">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <element signature="e#270#271#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
@@ -1220,28 +1211,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="88">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+        <state relative-caret-position="220">
+          <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#899#908#0" expanded="true" />
+            <element signature="e#870#879#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
