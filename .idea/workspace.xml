@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsOutput.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/dom4j-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/poi-3.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/poi-ooxml-3.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/xmlbeans-2.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Incomes-Report.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/poi_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/poi_3_5_final_sources__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_3_12__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/Office.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/_10_ExcelReader.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/Introduction/GhettoNumeralSystem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/Introduction/JustTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/Introduction/PrintCharacterTriangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/Introduction/PrintCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SoftUniJava/Introduction/SumNumbersFrom1toN.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SoftUniJava.iml" afterPath="$PROJECT_DIR$/SoftUniJava.iml" />
     </list>
     <ignored path="SoftUniJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,21 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderOfProductsOutput.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsOutput.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_09_OrderOfProducts.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_09_OrderOfProducts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+            <state relative-caret-position="1254">
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,32 +94,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderOfProductsInputQuantities.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputQuantities.txt">
+      <file leaf-file-name="_10_ExcelReader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/_10_ExcelReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="116">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="e#1341#1349#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderOfProductsInputPrice.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputPrice.txt">
+      <file leaf-file-name="Office.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/Office.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListOfProductsOutput.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsOutput.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="142">
+              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+              <folding>
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1301#1302#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1502#1503#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,23 +156,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListOfProductsInput.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/ListOfProductsInput.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -168,9 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/b/syntax/demos/CharType.java" />
-        <option value="$PROJECT_DIR$/src/org/b/syntax/demos/ConditionalStatements.java" />
-        <option value="$PROJECT_DIR$/src/org/b/syntax/demos/FloatingPointTypes.java" />
         <option value="$PROJECT_DIR$/src/org/b/syntax/demos/IntegerTypes.java" />
         <option value="$PROJECT_DIR$/src/org/a/introduction/GetAverage.java" />
         <option value="$PROJECT_DIR$/src/org/b/syntax/_01_RectangleArea.java" />
@@ -219,6 +230,9 @@
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsOutput.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputPrice.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputQuantities.txt" />
+        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_10_ExcelReader.java" />
+        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/Office.java" />
+        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/_10_ExcelReader.java" />
       </list>
     </option>
   </component>
@@ -243,6 +257,9 @@
             <id />
           </State>
           <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
@@ -251,7 +268,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>MalformedFormatString</id>
+            <id>UNUSED_IMPORT</id>
           </State>
         </selected-state>
       </profile-state>
@@ -343,6 +360,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -350,16 +381,19 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37132353" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\_3_loopsmethodsclasses" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\b\syntax\demos" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org._3_loopsmethodsclasses" />
@@ -370,36 +404,18 @@
       <recent name="org.b.syntax" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs\poi-ooxml-3.12.jar!\org\apache\poi\ss\usermodel" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs\poi-ooxml-3.12.jar!\org\apache\poi" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\_3_loopsmethodsclasses" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\b\syntax\demos" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\b\syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._09_OrderOfProducts">
-    <configuration default="false" name="_05_RandomHandsOf5Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org._3_loopsmethodsclasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org._3_loopsmethodsclasses._05_RandomHandsOf5Cards" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application._10_ExcelReader">
     <configuration default="false" name="_06_DaysBetweenTwoDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org._3_loopsmethodsclasses.*" />
+          <option name="PATTERN" value="org._3_loopsmethodsclasses.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,7 +435,7 @@
     <configuration default="false" name="_07_SumNumbersFromTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org._3_loopsmethodsclasses.*" />
+          <option name="PATTERN" value="org._3_loopsmethodsclasses.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,7 +455,7 @@
     <configuration default="false" name="_08_ListOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org._3_loopsmethodsclasses.*" />
+          <option name="PATTERN" value="org._3_loopsmethodsclasses.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -459,11 +475,31 @@
     <configuration default="false" name="_09_OrderOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org._3_loopsmethodsclasses.*" />
+          <option name="PATTERN" value="org._3_loopsmethodsclasses.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="org._3_loopsmethodsclasses._09_OrderOfProducts" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_10_ExcelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._3_loopsmethodsclasses.excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._3_loopsmethodsclasses.excel._10_ExcelReader" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -740,19 +776,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._05_RandomHandsOf5Cards" />
-      <item index="1" class="java.lang.String" itemvalue="Application._06_DaysBetweenTwoDates" />
-      <item index="2" class="java.lang.String" itemvalue="Application._07_SumNumbersFromTextFile" />
-      <item index="3" class="java.lang.String" itemvalue="Application._08_ListOfProducts" />
-      <item index="4" class="java.lang.String" itemvalue="Application._09_OrderOfProducts" />
+      <item index="0" class="java.lang.String" itemvalue="Application._06_DaysBetweenTwoDates" />
+      <item index="1" class="java.lang.String" itemvalue="Application._07_SumNumbersFromTextFile" />
+      <item index="2" class="java.lang.String" itemvalue="Application._08_ListOfProducts" />
+      <item index="3" class="java.lang.String" itemvalue="Application._09_OrderOfProducts" />
+      <item index="4" class="java.lang.String" itemvalue="Application._10_ExcelReader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._09_OrderOfProducts" />
-        <item index="1" class="java.lang.String" itemvalue="Application._08_ListOfProducts" />
-        <item index="2" class="java.lang.String" itemvalue="Application._07_SumNumbersFromTextFile" />
-        <item index="3" class="java.lang.String" itemvalue="Application._06_DaysBetweenTwoDates" />
-        <item index="4" class="java.lang.String" itemvalue="Application._05_RandomHandsOf5Cards" />
+        <item index="0" class="java.lang.String" itemvalue="Application._10_ExcelReader" />
+        <item index="1" class="java.lang.String" itemvalue="Application._09_OrderOfProducts" />
+        <item index="2" class="java.lang.String" itemvalue="Application._08_ListOfProducts" />
+        <item index="3" class="java.lang.String" itemvalue="Application._07_SumNumbersFromTextFile" />
+        <item index="4" class="java.lang.String" itemvalue="Application._06_DaysBetweenTwoDates" />
       </list>
     </recent_temporary>
   </component>
@@ -802,21 +838,28 @@
       <option name="project" value="LOCAL" />
       <updated>1488902312248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added exercise">
+      <created>1488902346198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1488902346198</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21478873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34859154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34859154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -869,48 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/OperatorsAndExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/PrintingToConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/ReadingNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/CharType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_1_introduction/GetAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_2_syntax/demos/ReadStringsAndNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2414">
@@ -1198,17 +1199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#870#879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1230,28 +1220,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_09_OrderOfProducts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputPrice.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputQuantities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1264,5 +1236,196 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_08_ListOfProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#870#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputQuantities.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_09_OrderOfProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/usermodel/WorkbookFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/util/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/usermodel/ss/util/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/poi-3.14.jar!/org/apache/poi/ss/usermodel/Workbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/_10_ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#1341#1349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SoftUniJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37132353" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>poi-3.5-FINAL</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37132353" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
