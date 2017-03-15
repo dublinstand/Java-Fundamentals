@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_01_FilterArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_01_ArraysExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_02_ReadSortPrintArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_03_ArrayListExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_04_StringExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_05_CompareStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_06_RegularExpressions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_07_SetsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_08_CountingWordsWithHashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/demos/_09_TreeMapStudentsAndGrades.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersFrom1toNUsingRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_03_SequencesOfEqualStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_04_SortArrayOfNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_05_LongestIncreasingSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_06_CountAllWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_07_CountSpecifiedWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SoftUniJava.iws" />
@@ -35,7 +32,86 @@
     <favorites_list name="SoftUniJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="_01_FilterArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_01_FilterArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_02_PrintNumbersFrom1toNUsingRecursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersFrom1toNUsingRecursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_04_SortArrayOfNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_04_SortArrayOfNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_03_SequencesOfEqualStrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_03_SequencesOfEqualStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_05_LongestIncreasingSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_05_LongestIncreasingSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_06_CountAllWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_06_CountAllWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-132">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_08_CountSubstringOccurrences.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,17 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_09_MethodsReturningValue.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_10_RecursiveCalls.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_11_JavaAPIClasses.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_12_HandlingExceptions.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_13_TryWithResources.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/demos/_14_DefiningClasses.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_01_SymmetricNumbersInRange.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_02_Generate3LetterWords.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_03_FullHouse.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_04_AngleUniteConverter.java" />
-        <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_05_RandomHandsOf5Cards.java" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_06_DaysBetweenTwoDates.java" />
         <option value="$PROJECT_DIR$/TestFile.txt" />
         <option value="$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_07_SumNumbersFromTextFile.java" />
@@ -112,6 +177,17 @@
         <option value="$PROJECT_DIR$/src/org/_5_collections/_01_CreateReadAndWriteInFiles.java" />
         <option value="$PROJECT_DIR$/src/org/_5_collections/demos/_01_ArraysExamples.java" />
         <option value="$PROJECT_DIR$/src/org/_5_collections/_01_FilterArray.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/demos/_03_ArrayListExamples.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/demos/_08_CountingWordsWithHashMap.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersfrom1toNUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersFrom1toNUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_03_SortArrayOfNumbers.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_03_SequencesOfEqualStrings.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_04_LongestIncreasingSequence.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_05_LongestIncreasingSequence.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_06_CountAllWords.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_07_CountSpecifiedWords.java" />
+        <option value="$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java" />
       </list>
     </option>
   </component>
@@ -293,22 +369,8 @@
     <property name="project.structure.side.proportion" value="0.37132353" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\_3_loopsmethodsclasses" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src" />
-      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org._3_loopsmethodsclasses" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org._5_collections" />
-      <recent name="org._4_streams" />
-      <recent name="org._3_loopsmethodsclasses" />
-      <recent name="org._2_.syntax" />
-      <recent name="org.b.syntax" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\_5_collections\demos" />
@@ -317,96 +379,110 @@
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\resources\CopyJpgFile" />
       <recent name="D:\training\SoftUni\Java\Java Fundamentals\resources\CountCharacterTypes" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org._5_collections" />
+      <recent name="org._4_streams" />
+      <recent name="org._3_loopsmethodsclasses" />
+      <recent name="org._2_.syntax" />
+      <recent name="org.b.syntax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\libs" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org\_3_loopsmethodsclasses" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src" />
+      <recent name="D:\training\SoftUni\Java\Java Fundamentals\src\org" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application._01_FilterArray">
-    <configuration default="false" name="_04_CountCharacterTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org._4_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org._4_streams._04_CountCharacterTypes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_06_SaveArrayListOfDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org._4_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org._4_streams._06_SaveArrayListOfDoubles" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_07_SaveCustomObjectInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org._4_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org._4_streams._07_SaveCustomObjectInFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_08_CreateZipArchive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org._4_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org._4_streams._08_CreateZipArchive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SoftUniJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_01_FilterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._08_CountSubstringOccurrences">
+    <configuration default="false" name="_04_SortArrayOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="org._5_collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org._5_collections._01_FilterArray" />
+      <option name="MAIN_CLASS_NAME" value="org._5_collections._04_SortArrayOfNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_03_SequencesOfEqualStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._5_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._5_collections._03_SequencesOfEqualStrings" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_05_LongestIncreasingSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._5_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._5_collections._05_LongestIncreasingSequence" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_07_CountSpecifiedWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._5_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._5_collections._07_CountSpecifiedWords" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoftUniJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_08_CountSubstringOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org._5_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org._5_collections._08_CountSubstringOccurrences" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -683,19 +759,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._04_CountCharacterTypes" />
-      <item index="1" class="java.lang.String" itemvalue="Application._06_SaveArrayListOfDoubles" />
-      <item index="2" class="java.lang.String" itemvalue="Application._07_SaveCustomObjectInFile" />
-      <item index="3" class="java.lang.String" itemvalue="Application._08_CreateZipArchive" />
-      <item index="4" class="java.lang.String" itemvalue="Application._01_FilterArray" />
+      <item index="0" class="java.lang.String" itemvalue="Application._04_SortArrayOfNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application._03_SequencesOfEqualStrings" />
+      <item index="2" class="java.lang.String" itemvalue="Application._05_LongestIncreasingSequence" />
+      <item index="3" class="java.lang.String" itemvalue="Application._07_CountSpecifiedWords" />
+      <item index="4" class="java.lang.String" itemvalue="Application._08_CountSubstringOccurrences" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._01_FilterArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application._08_CreateZipArchive" />
-        <item index="2" class="java.lang.String" itemvalue="Application._07_SaveCustomObjectInFile" />
-        <item index="3" class="java.lang.String" itemvalue="Application._06_SaveArrayListOfDoubles" />
-        <item index="4" class="java.lang.String" itemvalue="Application._04_CountCharacterTypes" />
+        <item index="0" class="java.lang.String" itemvalue="Application._08_CountSubstringOccurrences" />
+        <item index="1" class="java.lang.String" itemvalue="Application._07_CountSpecifiedWords" />
+        <item index="2" class="java.lang.String" itemvalue="Application._05_LongestIncreasingSequence" />
+        <item index="3" class="java.lang.String" itemvalue="Application._03_SequencesOfEqualStrings" />
+        <item index="4" class="java.lang.String" itemvalue="Application._04_SortArrayOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -773,26 +849,34 @@
       <option name="project" value="LOCAL" />
       <updated>1489058505516</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added exercises">
+      <created>1489425800433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489425800433</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21478873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24061033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24061033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -802,7 +886,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21478873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -820,18 +903,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exercise" />
+    <MESSAGE value="Added exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/_5_collections/demos/_08_CountingWordsWithHashMap.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="24" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="ch" />
+        <watch expression="numbers.get(i)" />
+        <watch expression="numbers.get(i - 1)" />
       </configuration>
     </watches-manager>
   </component>
@@ -840,78 +933,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsOutput.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/OrderOfProductsInputQuantities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/usermodel/WorkbookFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/util/Region.java" />
-    <entry file="file://$PROJECT_DIR$/libs/poi-ooxml-3.12.jar!/org/apache/poi/ss/usermodel/ss/util/Region.java" />
-    <entry file="jar://$PROJECT_DIR$/libs/poi-3.14.jar!/org/apache/poi/ss/usermodel/Workbook.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/Office.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/excel/_10_ExcelReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_4_streams/demos/StoringCustomObjects/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_4_streams/demos/StoringCustomObjects/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_3_loopsmethodsclasses/_09_OrderOfProducts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1130,29 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_03_ArrayListExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_09_TreeMapStudentsAndGrades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_01_ArraysExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1165,10 +1163,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_05_CompareStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_04_StringExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_03_ArrayListExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_06_RegularExpressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_07_SetsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-430">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_09_TreeMapStudentsAndGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_08_CountingWordsWithHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_01_FilterArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="352">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersFrom1toNUsingRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/demos/_01_ArraysExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_04_SortArrayOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_03_SequencesOfEqualStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_05_LongestIncreasingSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_07_CountSpecifiedWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_06_CountAllWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
