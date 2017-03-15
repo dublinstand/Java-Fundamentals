@@ -28,7 +28,6 @@ public class _08_CountSubstringOccurrences {
             start = matcher.start() + 1;
         }
         System.out.println(count);
-
     }
 }
 

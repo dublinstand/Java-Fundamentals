@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d8a321-d8c3-483e-870b-f16c27cec6a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_02_PrintNumbersFrom1toNUsingRecursion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_03_SequencesOfEqualStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_04_SortArrayOfNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_05_LongestIncreasingSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_06_CountAllWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_07_CountSpecifiedWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java" afterPath="$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java" />
     </list>
     <ignored path="SoftUniJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,8 +96,8 @@
       <file leaf-file-name="_08_CountSubstringOccurrences.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="638">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -856,7 +850,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489425800433</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added exercises">
+      <created>1489598469635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1489598469635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1291,8 +1292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/_5_collections/_08_CountSubstringOccurrences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="638">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
