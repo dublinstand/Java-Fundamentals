@@ -11,7 +11,7 @@ public class _12_MostFrequentWords {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        String[] wordsArray = scanner.nextLine().toLowerCase().split("[\\W]+");
+        String[] wordsArray = scanner.nextLine().toLowerCase().split("\\W+");
 
         //put the array in a list
         List<String> words = Arrays.asList(wordsArray);
